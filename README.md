@@ -1,2 +1,2 @@
-# yotta-target-bbc-microbit-classic-gcc
-Yotta target for microbit-dal gcc builds (including softdevice for bluetooth support)
+## yotta Target Description using GCC to compile for Nordic nRF51822 16KB device.
+
